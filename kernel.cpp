@@ -1,9 +1,9 @@
 /* Name: Sakib Khan
-//Course: CSCI-135 
-//Instructor: Tong Yi
-//Assignment: Task G. Pixelate,  Lab 8G
-//A sliding window operator replaces each pixel 
-//with some function of its 8 neighbors (and itself).
+Course: CSCI-135 
+Instructor: Tong Yi
+Assignment: Task G. Pixelate,  Lab 8G
+A sliding window operator replaces each pixel 
+with some function of its 8 neighbors (and itself).
 */
 //Consider pixel e and its 8 neighbors (labeled a-i) 
 //that form a 3x3 window around it.
